@@ -22,4 +22,10 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+    
+    <!--My Theme-->
+    <color name="teal_primary">#00796B</color>
+    <color name="teal_primary_dark">#004D40</color>
+    <color name="teal_primary_light">#80CBC4</color>
+    <color name="teal_accent">#FF4801</color>
 </resources>
