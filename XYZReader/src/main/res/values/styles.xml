@@ -21,6 +21,8 @@
         <item name="colorPrimary">@color/teal_primary</item>
         <item name="colorPrimaryDark">@color/teal_primary_dark</item>
         <item name="colorAccent">@color/teal_accent</item>
+        <item name="android:textColorPrimary">@color/primary_black</item>
+        <item name="android:textColorSecondary">@color/secondary_black</item>
     </style>
 
 </resources>
