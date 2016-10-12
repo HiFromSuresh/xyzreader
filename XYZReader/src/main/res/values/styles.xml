@@ -23,6 +23,7 @@
         <item name="colorAccent">@color/teal_accent</item>
         <item name="android:textColorPrimary">@color/primary_black</item>
         <item name="android:textColorSecondary">@color/secondary_black</item>
+        <item name="android:fontFamily">sans-serif</item>
     </style>
 
 </resources>
